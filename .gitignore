@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+# Pytest
+.pytest_cache
+.coverage
+hmlcov/
+
+.env
+*.env
+
+outouts/*.json
+!utputs/.gitkeep
+
+.DS_Store
+Thumbs.db
+.vscode/
