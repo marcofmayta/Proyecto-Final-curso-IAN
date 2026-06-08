@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @TU-USUARIO
+
+# Código fuente
+/src/ @TU-USUARIO
+/scripts/ @TU-USUARIO
+
+# Tests
+/tests/ @TU-USUARIO
+
+# Documentación
+/docs/ @TU-USUARIO
+
+# Workflows y configuración de GitHub
+/.github/ @TU-USUARIOc
